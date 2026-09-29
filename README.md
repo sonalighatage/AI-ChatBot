@@ -14,8 +14,8 @@ A chatbot that answers questions within a specific domain, using AI-generated re
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/sonalighatage/ChatBot.git
-cd ChatBot
+git clone https://github.com/sonalighatage/AI-ChatBot.git
+cd AI-ChatBot
 
 # 2. Install dependencies
 # No dependencies needed! The app is purely frontend HTML/JS/CSS.
