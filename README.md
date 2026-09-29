@@ -14,7 +14,7 @@ A chatbot that answers questions within a specific domain, using AI-generated re
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AkashAP147/ChatBot.git
+git clone https://github.com/sonalighatage/ChatBot.git
 cd ChatBot
 
 # 2. Install dependencies
