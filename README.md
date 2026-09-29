@@ -2,6 +2,8 @@
 
 A chatbot that answers questions within a specific domain, using AI-generated responses backed by keyword-based search.
 
+🌐 **Live Demo:** [https://aichatbot-147.netlify.app/](https://aichatbot-147.netlify.app/)
+
 ## Feature Set C
 
 - **Domain-specific FAQ chatbot**: answers questions focused on a single subject area.
